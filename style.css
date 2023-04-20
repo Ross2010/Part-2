@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+a {
+    width: 110px;
+    height: 20px;
+    background-color: rgb(150, 100, 194);
+    text-decoration: none;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    position: fixed;
+    top: 50%;
+    right: 50%;
+    
+    
+}
+a:hover{
+    background-color: rgb(61, 61, 228);
+    color: white;
+   
+}
